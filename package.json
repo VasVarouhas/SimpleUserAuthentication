@@ -1,0 +1,28 @@
+{
+  "name": "simplesite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VasVarouhas/simpleSite.git"
+  },
+  "keywords": [
+    "signup",
+    "login"
+  ],
+  "author": "VasVarouhas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VasVarouhas/simpleSite/issues"
+  },
+  "homepage": "https://github.com/VasVarouhas/simpleSite#readme",
+  "dependencies": {
+    "dotenv": "^16.1.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.2.2"
+  }
+}
