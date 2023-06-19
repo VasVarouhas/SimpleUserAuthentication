@@ -4,6 +4,6 @@
 - ## The whole project is actually on Glitch because you cannot run server-side on github , but you access it either from github or glitch : https://vasvarouhas.github.io/simpleSite/  https://pacific-rambunctious-textbook.glitch.me/index.html
 - ## Working properly should look like this : 
 
-![Screenshot (8)](https://github.com/VasVarouhas/simpleSite/assets/131968265/64bd7ffb-73db-4e42-92d8-95d0df1c5c08)
 
-     
+     ![simpleSite](https://github.com/VasVarouhas/simpleSite/assets/131968265/10736eb8-064f-4de3-9aa4-9e495b4817f9)
+
